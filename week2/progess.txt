@@ -1,0 +1,1 @@
+ฝึกเขียนObject literal ได้เรียนรู้และฝึกเขียนContructor functionได้เรียนเรื่องclassและฝึกเขียนclassได้เรียนเกี่ยวกับusing Object.create(existing)และได้ฝึกทำShallow Equality
