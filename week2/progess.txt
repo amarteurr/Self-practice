@@ -1,1 +1,4 @@
-ฝึกเขียนObject literal ได้เรียนรู้และฝึกเขียนContructor functionได้เรียนเรื่องclassและฝึกเขียนclassได้เรียนเกี่ยวกับusing Object.create(existing)และได้ฝึกทำShallow Equality
+ฝึกเขียนObject literal ได้เรียนรู้และฝึกเขียนContructor functionได้เรียนเรื่องclassและฝึกเขียนclassได้เรียนเกี่ยวกับusing Object.create(existing)และได้ฝึกทำShallow Equalityฃ
+สรุปการเรียนรู้
+ได้ฝึกเขียน Object literal เพื่อสร้างObjectแบบง่าย
+ได้เรียนรู้และฝึกเขียน Constructor function สำหรับสร้างObjectหลายตัว
