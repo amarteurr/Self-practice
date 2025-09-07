@@ -1,0 +1,1 @@
+ได้เรียนเรื่องArray method ได้ฝึกการใช้shiftและ unshift ฝึกการใช้filterและreduce ได้ฝึกsplice slice
