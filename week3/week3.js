@@ -116,3 +116,4 @@ console.log(getFreqOfWords(null));
 // undefined
 console.log(getFreqOfWords(undefined));
 // undefined
+console.log(getFreqOfWords(''));
