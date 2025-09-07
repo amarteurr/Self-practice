@@ -1,0 +1,7 @@
+ฝึกการใช้filter and map เพื่อกรองข้อมูลใน Arrays
+การรวมArraysด้วย concat และแปลงเป็นสตริงด้วย toString
+การเรียงลำดับArraysด้วย sort
+การค้นหาข้อมูลด้วย find และ findIndex
+การรวมค่าด้วย reduce และ reduceRight
+การวนลูปArraysด้วย forEach
+การใช้งาน entries, keys, values เพื่อเข้าถึง index หรือ value ของArrays
