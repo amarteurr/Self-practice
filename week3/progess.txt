@@ -1,0 +1,8 @@
+สรุปสิ่งที้่ได้ฝึก
+fuction JS มีหลายรูปแบบ: declaration, expression, arrow function
+function first-class citizen: assign, pass, return ได้
+arguments กับ rest parameter ใช้รับ argument หลายตัว
+default parameter ใช้กำหนดค่าเริ่มต้น
+spread operator ใช้กระจาย array เป็น argument
+function เปลี่ยนค่าตัวแปร primitive ไม่ได้ (pass by value)
+ได้ฝึกทำโจทย์getFreqOfWords: นับความถี่คำใน string, handle null/undefined
